@@ -1,1 +1,1 @@
-# Open disscussion here
+# Open discussion here
