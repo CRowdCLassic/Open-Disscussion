@@ -1,5 +1,5 @@
 ---
-name: Team Member Request
+name: Team member request
 about: You can apply for adding you to CrowdCLassic Round Table Team here.
 title: ''
 labels: ''
